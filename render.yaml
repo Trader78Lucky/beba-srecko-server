@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: beba-srecko-server
+    env: python
+    buildCommand: ""
+    startCommand: "python main.py"
+    plan: free
