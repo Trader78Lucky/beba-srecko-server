@@ -1,17 +1,18 @@
 import requests
 
-BOT_TOKEN = "7961331230:AAFb88c2PorQ-aO6KFnHkqXa4SuXu9CweDM"
-
+BOT_TOKEN = "7961331230:AAFb88c2PorQ-a06KFnHkQx4a5uX9CweDM"
 url = f"https://api.telegram.org/bot{BOT_TOKEN}/getUpdates"
 
 response = requests.get(url)
+data = response.json()
 
-if response.status_code == 200:'73345208491'
-    data = response.json()
-    try:
-        chat_id = data["result"][-1]["message"]["chat"]["id"]
-        print(f"Tvoj chat ID je: {chat_id}")
-    except (IndexError, KeyError):
-        print("Pošalji poruku botu na Telegramu (/start) pa ponovo pokreni skriptu.")
-else:
-    print(f"Greška pri dohvatanju podataka: {response.status_code}")
+try:
+    for update in reversed(data["result"]):
+        if "message" in update:
+            chat_id = update["message"]["chat"]["id"]
+            print(f"Tvoj chat ID je: {chat_id}")
+            break
+    else:
+        print("Nema poruke u result za pronalaženje chat ID.")
+except Exception as e:
+    print(f"Greška pri dohvaćanju chat ID: {e}")
