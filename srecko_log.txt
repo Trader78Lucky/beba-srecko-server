@@ -1,0 +1,904 @@
+
+[11.04.2025 17:00:32] Cene na tržištu:
+- BTC: $81952
+- ETH: $1556.66
+- DOGE: $0.157997
+- SHIB: $1.201e-05
+⚠️ SHIB ALERT! Cena: $1.201e-05
+- SOL: $119.65
+
+[11.04.2025 17:01:04] Cene na tržištu:
+- BTC: $81952
+- ETH: $1556.66
+- DOGE: $0.157997
+- SHIB: $1.201e-05
+⚠️ SHIB ALERT! Cena: $1.201e-05
+- SOL: $119.65
+
+[11.04.2025 17:01:34] Cene na tržištu:
+- BTC: $81970
+- ETH: $1557.14
+- DOGE: $0.158033
+- SHIB: $1.202e-05
+⚠️ SHIB ALERT! Cena: $1.202e-05
+- SOL: $119.66
+
+[11.04.2025 17:02:05] Cene na tržištu:
+- BTC: $81970
+- ETH: $1557.14
+- DOGE: $0.158033
+- SHIB: $1.202e-05
+⚠️ SHIB ALERT! Cena: $1.202e-05
+- SOL: $119.66
+
+[11.04.2025 17:02:35] Cene na tržištu:
+- BTC: $81953
+- ETH: $1556.65
+- DOGE: $0.157937
+- SHIB: $1.201e-05
+⚠️ SHIB ALERT! Cena: $1.201e-05
+- SOL: $119.59
+
+[11.04.2025 17:03:05] Cene na tržištu:
+- BTC: $81953
+- ETH: $1556.65
+- DOGE: $0.157937
+- SHIB: $1.201e-05
+⚠️ SHIB ALERT! Cena: $1.201e-05
+- SOL: $119.59
+
+[11.04.2025 17:03:36] Cene na tržištu:
+- BTC: $81956
+- ETH: $1556.61
+- DOGE: $0.157944
+- SHIB: $1.202e-05
+⚠️ SHIB ALERT! Cena: $1.202e-05
+- SOL: $119.6
+
+[11.04.2025 17:04:06] Cene na tržištu:
+- BTC: $81956
+- ETH: $1556.61
+- DOGE: $0.157944
+- SHIB: $1.202e-05
+⚠️ SHIB ALERT! Cena: $1.202e-05
+- SOL: $119.6
+
+[11.04.2025 17:04:36] Cene na tržištu:
+- BTC: $81956
+- ETH: $1556.61
+- DOGE: $0.157944
+- SHIB: $1.202e-05
+⚠️ SHIB ALERT! Cena: $1.202e-05
+- SOL: $119.6
+
+[11.04.2025 17:05:07] Cene na tržištu:
+- BTC: $81932
+- ETH: $1556.52
+- DOGE: $0.157864
+- SHIB: $1.201e-05
+⚠️ SHIB ALERT! Cena: $1.201e-05
+- SOL: $119.56
+
+[11.04.2025 17:05:37] Cene na tržištu:
+- BTC: $81932
+- ETH: $1556.52
+- DOGE: $0.157864
+- SHIB: $1.201e-05
+⚠️ SHIB ALERT! Cena: $1.201e-05
+- SOL: $119.56
+
+[11.04.2025 17:06:07] Cene na tržištu:
+- BTC: $81932
+- ETH: $1556.52
+- DOGE: $0.157864
+- SHIB: $1.201e-05
+⚠️ SHIB ALERT! Cena: $1.201e-05
+- SOL: $119.56
+
+[11.04.2025 17:06:38] Cene na tržištu:
+- BTC: $81908
+- ETH: $1556.44
+- DOGE: $0.157812
+- SHIB: $1.201e-05
+⚠️ SHIB ALERT! Cena: $1.201e-05
+- SOL: $119.44
+
+[11.04.2025 17:07:05] Pregled tržišta:
+- BTC: $81905
+- ETH: $1556.4
+- SOL: $119.37
+- DOGE: $0.157781
+- SHIB: $1.201e-05
+⚠️ SHIB je IZNAD granice: $1.201e-05
+
+[11.04.2025 17:07:08] Cene na tržištu:
+- BTC: $81908
+- ETH: $1556.44
+- DOGE: $0.157812
+- SHIB: $1.201e-05
+⚠️ SHIB ALERT! Cena: $1.201e-05
+- SOL: $119.44
+
+[11.04.2025 17:07:35] Pregled tržišta:
+- BTC: $81905
+- ETH: $1556.4
+- SOL: $119.37
+- DOGE: $0.157781
+- SHIB: $1.201e-05
+⚠️ SHIB je IZNAD granice: $1.201e-05
+
+[11.04.2025 17:07:38] Cene na tržištu:
+- BTC: $81908
+- ETH: $1556.44
+- DOGE: $0.157812
+- SHIB: $1.201e-05
+⚠️ SHIB ALERT! Cena: $1.201e-05
+- SOL: $119.44
+
+[11.04.2025 17:08:06] Pregled tržišta:
+- BTC: $81877
+- ETH: $1556.32
+- SOL: $119.33
+- DOGE: $0.157759
+- SHIB: $1.201e-05
+⚠️ SHIB je IZNAD granice: $1.201e-05
+
+[11.04.2025 17:08:09] Cene na tržištu:
+- BTC: $81877
+- ETH: $1556.35
+- DOGE: $0.157759
+- SHIB: $1.201e-05
+⚠️ SHIB ALERT! Cena: $1.201e-05
+- SOL: $119.33
+
+[11.04.2025 17:08:36] Pregled tržišta:
+- BTC: $81877
+- ETH: $1556.32
+- SOL: $119.33
+- DOGE: $0.157759
+- SHIB: $1.201e-05
+⚠️ SHIB je IZNAD granice: $1.201e-05
+
+[11.04.2025 17:08:39] Cene na tržištu:
+- BTC: $81877
+- ETH: $1556.35
+- DOGE: $0.157759
+- SHIB: $1.201e-05
+⚠️ SHIB ALERT! Cena: $1.201e-05
+- SOL: $119.33
+
+[11.04.2025 17:09:06] Pregled tržišta:
+- BTC: $81877
+- ETH: $1556.32
+- SOL: $119.33
+- DOGE: $0.157759
+- SHIB: $1.201e-05
+⚠️ SHIB je IZNAD granice: $1.201e-05
+
+[11.04.2025 17:09:09] Cene na tržištu:
+- BTC: $81877
+- ETH: $1556.35
+- DOGE: $0.157759
+- SHIB: $1.201e-05
+⚠️ SHIB ALERT! Cena: $1.201e-05
+- SOL: $119.33
+
+[11.04.2025 17:09:37] Pregled tržišta:
+- BTC: $81874
+- ETH: $1556.23
+- SOL: $119.28
+- DOGE: $0.157774
+- SHIB: $1.201e-05
+⚠️ SHIB je IZNAD granice: $1.201e-05
+
+[11.04.2025 17:09:40] Cene na tržištu:
+- BTC: $81874
+- ETH: $1556.23
+- DOGE: $0.157774
+- SHIB: $1.201e-05
+⚠️ SHIB ALERT! Cena: $1.201e-05
+- SOL: $119.28
+
+[11.04.2025 17:10:07] Pregled tržišta:
+- BTC: $81874
+- ETH: $1556.23
+- SOL: $119.28
+- DOGE: $0.157774
+- SHIB: $1.201e-05
+⚠️ SHIB je IZNAD granice: $1.201e-05
+
+[11.04.2025 17:10:10] Cene na tržištu:
+- BTC: $81874
+- ETH: $1556.23
+- DOGE: $0.157774
+- SHIB: $1.201e-05
+⚠️ SHIB ALERT! Cena: $1.201e-05
+- SOL: $119.28
+
+[11.04.2025 17:10:38] Pregled tržišta:
+- BTC: $81923
+- ETH: $1556.68
+- SOL: $119.29
+- DOGE: $0.157832
+- SHIB: $1.201e-05
+⚠️ SHIB je IZNAD granice: $1.201e-05
+
+[11.04.2025 17:10:40] Cene na tržištu:
+- BTC: $81874
+- ETH: $1556.23
+- DOGE: $0.157774
+- SHIB: $1.201e-05
+⚠️ SHIB ALERT! Cena: $1.201e-05
+- SOL: $119.28
+
+[11.04.2025 17:11:08] Pregled tržišta:
+- BTC: $81923
+- ETH: $1556.68
+- SOL: $119.29
+- DOGE: $0.157832
+- SHIB: $1.201e-05
+⚠️ SHIB je IZNAD granice: $1.201e-05
+
+[11.04.2025 17:11:11] Cene na tržištu:
+- BTC: $81935
+- ETH: $1556.79
+- DOGE: $0.157841
+- SHIB: $1.202e-05
+⚠️ SHIB ALERT! Cena: $1.202e-05
+- SOL: $119.3
+
+[11.04.2025 17:11:39] Pregled tržišta:
+- BTC: $81934
+- ETH: $1556.89
+- SOL: $119.31
+- DOGE: $0.157843
+- SHIB: $1.202e-05
+⚠️ SHIB je IZNAD granice: $1.202e-05
+
+[11.04.2025 17:11:41] Cene na tržištu:
+- BTC: $81935
+- ETH: $1556.79
+- DOGE: $0.157841
+- SHIB: $1.202e-05
+⚠️ SHIB ALERT! Cena: $1.202e-05
+- SOL: $119.3
+
+[11.04.2025 17:12:09] Pregled tržišta:
+- BTC: $81934
+- ETH: $1556.89
+- SOL: $119.31
+- DOGE: $0.157843
+- SHIB: $1.202e-05
+⚠️ SHIB je IZNAD granice: $1.202e-05
+
+[11.04.2025 17:12:11] Cene na tržištu:
+- BTC: $81935
+- ETH: $1556.79
+- DOGE: $0.157841
+- SHIB: $1.202e-05
+⚠️ SHIB ALERT! Cena: $1.202e-05
+- SOL: $119.3
+
+[11.04.2025 17:12:39] Pregled tržišta:
+- BTC: $81934
+- ETH: $1556.89
+- SOL: $119.31
+- DOGE: $0.157843
+- SHIB: $1.202e-05
+⚠️ SHIB je IZNAD granice: $1.202e-05
+
+[11.04.2025 17:12:42] Cene na tržištu:
+- BTC: $81939
+- ETH: $1557.16
+- DOGE: $0.157847
+- SHIB: $1.202e-05
+⚠️ SHIB ALERT! Cena: $1.202e-05
+- SOL: $119.3
+
+[11.04.2025 17:13:10] Pregled tržišta:
+- BTC: $81944
+- ETH: $1557.36
+- SOL: $119.31
+- DOGE: $0.157861
+- SHIB: $1.202e-05
+⚠️ SHIB je IZNAD granice: $1.202e-05
+
+[11.04.2025 17:13:12] Cene na tržištu:
+- BTC: $81939
+- ETH: $1557.16
+- DOGE: $0.157847
+- SHIB: $1.202e-05
+⚠️ SHIB ALERT! Cena: $1.202e-05
+- SOL: $119.3
+
+[11.04.2025 17:13:40] Pregled tržišta:
+- BTC: $81944
+- ETH: $1557.36
+- SOL: $119.31
+- DOGE: $0.157861
+- SHIB: $1.202e-05
+⚠️ SHIB je IZNAD granice: $1.202e-05
+
+[11.04.2025 17:13:42] Cene na tržištu:
+- BTC: $81939
+- ETH: $1557.16
+- DOGE: $0.157847
+- SHIB: $1.202e-05
+⚠️ SHIB ALERT! Cena: $1.202e-05
+- SOL: $119.3
+
+[11.04.2025 17:14:11] Pregled tržišta:
+- BTC: $81942
+- ETH: $1557.74
+- SOL: $119.33
+- DOGE: $0.157889
+- SHIB: $1.202e-05
+⚠️ SHIB je IZNAD granice: $1.202e-05
+
+[11.04.2025 17:14:13] Cene na tržištu:
+- BTC: $81940
+- ETH: $1557.74
+- DOGE: $0.157889
+- SHIB: $1.202e-05
+⚠️ SHIB ALERT! Cena: $1.202e-05
+- SOL: $119.33
+
+[11.04.2025 17:14:41] Pregled tržišta:
+- BTC: $81942
+- ETH: $1557.74
+- SOL: $119.33
+- DOGE: $0.157889
+- SHIB: $1.202e-05
+⚠️ SHIB je IZNAD granice: $1.202e-05
+
+[11.04.2025 17:14:43] Cene na tržištu:
+- BTC: $81940
+- ETH: $1557.74
+- DOGE: $0.157889
+- SHIB: $1.202e-05
+⚠️ SHIB ALERT! Cena: $1.202e-05
+- SOL: $119.33
+
+[11.04.2025 17:15:11] Pregled tržišta:
+- BTC: $81942
+- ETH: $1557.74
+- SOL: $119.33
+- DOGE: $0.157889
+- SHIB: $1.202e-05
+⚠️ SHIB je IZNAD granice: $1.202e-05
+
+[11.04.2025 17:15:13] Cene na tržištu:
+- BTC: $81940
+- ETH: $1557.74
+- DOGE: $0.157889
+- SHIB: $1.202e-05
+⚠️ SHIB ALERT! Cena: $1.202e-05
+- SOL: $119.33
+
+[11.04.2025 17:15:42] Pregled tržišta:
+- BTC: $81908
+- ETH: $1557.61
+- SOL: $119.27
+- DOGE: $0.157817
+- SHIB: $1.202e-05
+⚠️ SHIB je IZNAD granice: $1.202e-05
+
+[11.04.2025 17:15:44] Cene na tržištu:
+- BTC: $81905
+- ETH: $1557.61
+- DOGE: $0.157817
+- SHIB: $1.202e-05
+⚠️ SHIB ALERT! Cena: $1.202e-05
+- SOL: $119.27
+
+[11.04.2025 17:16:12] Pregled tržišta:
+- BTC: $81908
+- ETH: $1557.61
+- SOL: $119.27
+- DOGE: $0.157817
+- SHIB: $1.202e-05
+⚠️ SHIB je IZNAD granice: $1.202e-05
+
+[11.04.2025 17:16:14] Cene na tržištu:
+- BTC: $81905
+- ETH: $1557.61
+- DOGE: $0.157817
+- SHIB: $1.202e-05
+⚠️ SHIB ALERT! Cena: $1.202e-05
+- SOL: $119.27
+
+[11.04.2025 17:16:42] Pregled tržišta:
+- BTC: $81908
+- ETH: $1557.61
+- SOL: $119.27
+- DOGE: $0.157817
+- SHIB: $1.202e-05
+⚠️ SHIB je IZNAD granice: $1.202e-05
+
+[11.04.2025 17:16:44] Cene na tržištu:
+- BTC: $81905
+- ETH: $1557.61
+- DOGE: $0.157817
+- SHIB: $1.202e-05
+⚠️ SHIB ALERT! Cena: $1.202e-05
+- SOL: $119.27
+
+[11.04.2025 17:17:13] Pregled tržišta:
+- BTC: $81910
+- ETH: $1557.69
+- SOL: $119.21
+- DOGE: $0.157844
+- SHIB: $1.202e-05
+⚠️ SHIB je IZNAD granice: $1.202e-05
+
+[11.04.2025 17:17:15] Cene na tržištu:
+- BTC: $81911
+- ETH: $1557.69
+- DOGE: $0.157844
+- SHIB: $1.202e-05
+⚠️ SHIB ALERT! Cena: $1.202e-05
+- SOL: $119.21
+
+[11.04.2025 17:17:43] Pregled tržišta:
+- BTC: $81910
+- ETH: $1557.69
+- SOL: $119.21
+- DOGE: $0.157844
+- SHIB: $1.202e-05
+⚠️ SHIB je IZNAD granice: $1.202e-05
+
+[11.04.2025 17:17:45] Cene na tržištu:
+- BTC: $81911
+- ETH: $1557.69
+- DOGE: $0.157844
+- SHIB: $1.202e-05
+⚠️ SHIB ALERT! Cena: $1.202e-05
+- SOL: $119.21
+
+[11.04.2025 17:18:13] Pregled tržišta:
+- BTC: $81910
+- ETH: $1557.69
+- SOL: $119.21
+- DOGE: $0.157844
+- SHIB: $1.202e-05
+⚠️ SHIB je IZNAD granice: $1.202e-05
+
+[11.04.2025 17:18:15] Cene na tržištu:
+- BTC: $81911
+- ETH: $1557.69
+- DOGE: $0.157844
+- SHIB: $1.202e-05
+⚠️ SHIB ALERT! Cena: $1.202e-05
+- SOL: $119.21
+
+[11.04.2025 17:18:44] Pregled tržišta:
+- BTC: $81917
+- ETH: $1557.66
+- SOL: $118.99
+- DOGE: $0.157791
+- SHIB: $1.201e-05
+⚠️ SHIB je IZNAD granice: $1.201e-05
+
+[11.04.2025 17:18:46] Cene na tržištu:
+- BTC: $81913
+- ETH: $1557.66
+- DOGE: $0.157786
+- SHIB: $1.201e-05
+⚠️ SHIB ALERT! Cena: $1.201e-05
+- SOL: $118.99
+
+[11.04.2025 17:19:14] Pregled tržišta:
+- BTC: $81917
+- ETH: $1557.66
+- SOL: $118.99
+- DOGE: $0.157791
+- SHIB: $1.201e-05
+⚠️ SHIB je IZNAD granice: $1.201e-05
+
+[11.04.2025 17:19:16] Cene na tržištu:
+- BTC: $81913
+- ETH: $1557.66
+- DOGE: $0.157786
+- SHIB: $1.201e-05
+⚠️ SHIB ALERT! Cena: $1.201e-05
+- SOL: $118.99
+
+[11.04.2025 17:19:44] Pregled tržišta:
+- BTC: $81917
+- ETH: $1557.66
+- SOL: $118.99
+- DOGE: $0.157791
+- SHIB: $1.201e-05
+⚠️ SHIB je IZNAD granice: $1.201e-05
+
+[11.04.2025 17:19:46] Cene na tržištu:
+- BTC: $81913
+- ETH: $1557.66
+- DOGE: $0.157786
+- SHIB: $1.201e-05
+⚠️ SHIB ALERT! Cena: $1.201e-05
+- SOL: $118.99
+
+[11.04.2025 17:20:15] Pregled tržišta:
+- BTC: $81906
+- ETH: $1556.8
+- SOL: $118.92
+- DOGE: $0.157724
+- SHIB: $1.201e-05
+⚠️ SHIB je IZNAD granice: $1.201e-05
+
+[11.04.2025 17:20:17] Cene na tržištu:
+- BTC: $81906
+- ETH: $1556.8
+- DOGE: $0.157724
+- SHIB: $1.201e-05
+⚠️ SHIB ALERT! Cena: $1.201e-05
+- SOL: $118.92
+
+[11.04.2025 17:20:45] Pregled tržišta:
+- BTC: $81906
+- ETH: $1556.8
+- SOL: $118.92
+- DOGE: $0.157724
+- SHIB: $1.201e-05
+⚠️ SHIB je IZNAD granice: $1.201e-05
+
+[11.04.2025 17:20:47] Cene na tržištu:
+- BTC: $81906
+- ETH: $1556.8
+- DOGE: $0.157724
+- SHIB: $1.201e-05
+⚠️ SHIB ALERT! Cena: $1.201e-05
+- SOL: $118.92
+
+[11.04.2025 17:21:16] Pregled tržišta:
+- BTC: $81932
+- ETH: $1556.82
+- SOL: $118.82
+- DOGE: $0.157725
+- SHIB: $1.201e-05
+⚠️ SHIB je IZNAD granice: $1.201e-05
+
+[11.04.2025 17:21:17] Cene na tržištu:
+- BTC: $81906
+- ETH: $1556.8
+- DOGE: $0.157724
+- SHIB: $1.201e-05
+⚠️ SHIB ALERT! Cena: $1.201e-05
+- SOL: $118.92
+
+[11.04.2025 17:21:46] Pregled tržišta:
+- BTC: $81932
+- ETH: $1556.82
+- SOL: $118.82
+- DOGE: $0.157725
+- SHIB: $1.201e-05
+⚠️ SHIB je IZNAD granice: $1.201e-05
+
+[11.04.2025 17:21:48] Cene na tržištu:
+- BTC: $81939
+- ETH: $1556.73
+- DOGE: $0.157729
+- SHIB: $1.201e-05
+⚠️ SHIB ALERT! Cena: $1.201e-05
+- SOL: $118.81
+
+[11.04.2025 17:22:16] Pregled tržišta:
+- BTC: $81932
+- ETH: $1556.82
+- SOL: $118.82
+- DOGE: $0.157725
+- SHIB: $1.201e-05
+⚠️ SHIB je IZNAD granice: $1.201e-05
+
+[11.04.2025 17:22:18] Cene na tržištu:
+- BTC: $81939
+- ETH: $1556.73
+- DOGE: $0.157729
+- SHIB: $1.201e-05
+⚠️ SHIB ALERT! Cena: $1.201e-05
+- SOL: $118.81
+
+[11.04.2025 17:22:47] Pregled tržišta:
+- BTC: $81971
+- ETH: $1556.65
+- SOL: $118.82
+- DOGE: $0.15774
+- SHIB: $1.201e-05
+⚠️ SHIB je IZNAD granice: $1.201e-05
+
+[11.04.2025 17:22:48] Cene na tržištu:
+- BTC: $81939
+- ETH: $1556.73
+- DOGE: $0.157729
+- SHIB: $1.201e-05
+⚠️ SHIB ALERT! Cena: $1.201e-05
+- SOL: $118.81
+
+[11.04.2025 17:23:17] Pregled tržišta:
+- BTC: $81971
+- ETH: $1556.65
+- SOL: $118.82
+- DOGE: $0.15774
+- SHIB: $1.201e-05
+⚠️ SHIB je IZNAD granice: $1.201e-05
+
+[11.04.2025 17:23:19] Cene na tržištu:
+- BTC: $81980
+- ETH: $1556.72
+- DOGE: $0.157776
+- SHIB: $1.2e-05
+⚠️ SHIB ALERT! Cena: $1.2e-05
+- SOL: $118.84
+
+[11.04.2025 17:23:47] Pregled tržišta:
+- BTC: $81971
+- ETH: $1556.65
+- SOL: $118.82
+- DOGE: $0.15774
+- SHIB: $1.201e-05
+⚠️ SHIB je IZNAD granice: $1.201e-05
+
+[11.04.2025 17:23:49] Cene na tržištu:
+- BTC: $81980
+- ETH: $1556.72
+- DOGE: $0.157776
+- SHIB: $1.2e-05
+⚠️ SHIB ALERT! Cena: $1.2e-05
+- SOL: $118.84
+
+[11.04.2025 17:24:18] Pregled tržišta:
+- BTC: $81994
+- ETH: $1556.65
+- SOL: $118.83
+- DOGE: $0.15777
+- SHIB: $1.2e-05
+⚠️ SHIB je IZNAD granice: $1.2e-05
+
+[11.04.2025 17:24:19] Cene na tržištu:
+- BTC: $81980
+- ETH: $1556.72
+- DOGE: $0.157776
+- SHIB: $1.2e-05
+⚠️ SHIB ALERT! Cena: $1.2e-05
+- SOL: $118.84
+
+[11.04.2025 17:24:48] Pregled tržišta:
+- BTC: $81994
+- ETH: $1556.65
+- SOL: $118.83
+- DOGE: $0.15777
+- SHIB: $1.2e-05
+⚠️ SHIB je IZNAD granice: $1.2e-05
+
+[11.04.2025 17:24:49] Cene na tržištu:
+- BTC: $81990
+- ETH: $1556.23
+- DOGE: $0.157752
+- SHIB: $1.2e-05
+⚠️ SHIB ALERT! Cena: $1.2e-05
+- SOL: $118.8
+
+[11.04.2025 17:25:18] Pregled tržišta:
+- BTC: $81994
+- ETH: $1556.65
+- SOL: $118.83
+- DOGE: $0.15777
+- SHIB: $1.2e-05
+⚠️ SHIB je IZNAD granice: $1.2e-05
+
+[11.04.2025 17:25:20] Cene na tržištu:
+- BTC: $81990
+- ETH: $1556.23
+- DOGE: $0.157752
+- SHIB: $1.2e-05
+⚠️ SHIB ALERT! Cena: $1.2e-05
+- SOL: $118.8
+
+[11.04.2025 17:25:49] Pregled tržišta:
+- BTC: $81993
+- ETH: $1556.02
+- SOL: $118.8
+- DOGE: $0.157742
+- SHIB: $1.2e-05
+⚠️ SHIB je IZNAD granice: $1.2e-05
+
+[11.04.2025 17:25:50] Cene na tržištu:
+- BTC: $81990
+- ETH: $1556.23
+- DOGE: $0.157752
+- SHIB: $1.2e-05
+⚠️ SHIB ALERT! Cena: $1.2e-05
+- SOL: $118.8
+
+[11.04.2025 17:26:19] Pregled tržišta:
+- BTC: $81993
+- ETH: $1556.02
+- SOL: $118.8
+- DOGE: $0.157742
+- SHIB: $1.2e-05
+⚠️ SHIB je IZNAD granice: $1.2e-05
+
+[11.04.2025 17:26:21] Cene na tržištu:
+- BTC: $82000
+- ETH: $1556.1
+- DOGE: $0.157747
+- SHIB: $1.2e-05
+⚠️ SHIB ALERT! Cena: $1.2e-05
+- SOL: $118.82
+
+[11.04.2025 17:26:50] Pregled tržišta:
+- BTC: $82008
+- ETH: $1556.63
+- SOL: $118.85
+- DOGE: $0.157782
+- SHIB: $1.2e-05
+⚠️ SHIB je IZNAD granice: $1.2e-05
+
+[11.04.2025 17:26:51] Cene na tržištu:
+- BTC: $82000
+- ETH: $1556.1
+- DOGE: $0.157747
+- SHIB: $1.2e-05
+⚠️ SHIB ALERT! Cena: $1.2e-05
+- SOL: $118.82
+
+[11.04.2025 17:27:20] Pregled tržišta:
+- BTC: $82008
+- ETH: $1556.63
+- SOL: $118.85
+- DOGE: $0.157782
+- SHIB: $1.2e-05
+⚠️ SHIB je IZNAD granice: $1.2e-05
+
+[11.04.2025 17:27:21] Cene na tržištu:
+- BTC: $82000
+- ETH: $1556.1
+- DOGE: $0.157747
+- SHIB: $1.2e-05
+⚠️ SHIB ALERT! Cena: $1.2e-05
+- SOL: $118.82
+
+[11.04.2025 17:27:51] Pregled tržišta:
+- BTC: $82008
+- ETH: $1556.71
+- SOL: $118.86
+- DOGE: $0.157794
+- SHIB: $1.2e-05
+⚠️ SHIB je IZNAD granice: $1.2e-05
+
+[11.04.2025 17:27:52] Cene na tržištu:
+- BTC: $82008
+- ETH: $1556.71
+- DOGE: $0.157794
+- SHIB: $1.2e-05
+⚠️ SHIB ALERT! Cena: $1.2e-05
+- SOL: $118.86
+
+[11.04.2025 17:28:21] Pregled tržišta:
+- BTC: $82008
+- ETH: $1556.71
+- SOL: $118.86
+- DOGE: $0.157794
+- SHIB: $1.2e-05
+⚠️ SHIB je IZNAD granice: $1.2e-05
+
+[11.04.2025 17:28:22] Cene na tržištu:
+- BTC: $82008
+- ETH: $1556.71
+- DOGE: $0.157794
+- SHIB: $1.2e-05
+⚠️ SHIB ALERT! Cena: $1.2e-05
+- SOL: $118.86
+
+[11.04.2025 17:28:52] Pregled tržišta:
+- BTC: $82019
+- ETH: $1557.39
+- SOL: $118.87
+- DOGE: $0.157854
+- SHIB: $1.2e-05
+⚠️ SHIB je IZNAD granice: $1.2e-05
+
+[11.04.2025 17:28:52] Cene na tržištu:
+- BTC: $82008
+- ETH: $1556.71
+- DOGE: $0.157794
+- SHIB: $1.2e-05
+⚠️ SHIB ALERT! Cena: $1.2e-05
+- SOL: $118.86
+
+[11.04.2025 17:29:22] Pregled tržišta:
+- BTC: $82019
+- ETH: $1557.39
+- SOL: $118.87
+- DOGE: $0.157854
+- SHIB: $1.2e-05
+⚠️ SHIB je IZNAD granice: $1.2e-05
+
+[11.04.2025 17:29:23] Cene na tržištu:
+- BTC: $82024
+- ETH: $1557.74
+- DOGE: $0.1579
+- SHIB: $1.2e-05
+⚠️ SHIB ALERT! Cena: $1.2e-05
+- SOL: $118.89
+
+[11.04.2025 17:29:52] Pregled tržišta:
+- BTC: $82019
+- ETH: $1557.39
+- SOL: $118.87
+- DOGE: $0.157854
+- SHIB: $1.2e-05
+⚠️ SHIB je IZNAD granice: $1.2e-05
+
+[11.04.2025 17:29:53] Cene na tržištu:
+- BTC: $82024
+- ETH: $1557.74
+- DOGE: $0.1579
+- SHIB: $1.2e-05
+⚠️ SHIB ALERT! Cena: $1.2e-05
+- SOL: $118.89
+
+[11.04.2025 17:30:23] Pregled tržišta:
+- BTC: $82035
+- ETH: $1558.17
+- SOL: $118.92
+- DOGE: $0.157933
+- SHIB: $1.2e-05
+⚠️ SHIB je IZNAD granice: $1.2e-05
+
+[11.04.2025 17:30:23] Cene na tržištu:
+- BTC: $82024
+- ETH: $1557.74
+- DOGE: $0.1579
+- SHIB: $1.2e-05
+⚠️ SHIB ALERT! Cena: $1.2e-05
+- SOL: $118.89
+
+[11.04.2025 17:30:53] Pregled tržišta:
+- BTC: $82035
+- ETH: $1558.17
+- SOL: $118.92
+- DOGE: $0.157933
+- SHIB: $1.2e-05
+⚠️ SHIB je IZNAD granice: $1.2e-05
+
+[11.04.2025 17:30:53] Cene na tržištu:
+- BTC: $82049
+- ETH: $1558.22
+- DOGE: $0.15793
+- SHIB: $1.2e-05
+⚠️ SHIB ALERT! Cena: $1.2e-05
+- SOL: $118.92
+
+[11.04.2025 17:31:25] Cene na tržištu:
+- BTC: $82049
+- ETH: $1558.22
+- DOGE: $0.15793
+- SHIB: $1.2e-05
+⚠️ SHIB ALERT! Cena: $1.2e-05
+- SOL: $118.92
+
+[11.04.2025 17:31:25] Pregled tržišta:
+- BTC: $82069
+- ETH: $1558.44
+- SOL: $118.95
+- DOGE: $0.157953
+- SHIB: $1.2e-05
+⚠️ SHIB je IZNAD granice: $1.2e-05
+
+[11.04.2025 17:31:55] Cene na tržištu:
+- BTC: $82107
+- ETH: $1559.14
+- DOGE: $0.157985
+- SHIB: $1.201e-05
+⚠️ SHIB ALERT! Cena: $1.201e-05
+- SOL: $118.99
+
+[11.04.2025 17:31:55] Pregled tržišta:
+- BTC: $82069
+- ETH: $1558.44
+- SOL: $118.95
+- DOGE: $0.157953
+- SHIB: $1.2e-05
+⚠️ SHIB je IZNAD granice: $1.2e-05
