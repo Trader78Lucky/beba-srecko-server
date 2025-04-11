@@ -7,7 +7,7 @@ CHAT_ID = "73345208491"
 
 bot = telegram.Bot(token=BOT_TOKEN)
 
-pp = Flask(__name__)
+app = Flask(__name__)
 
 @app.route('/')
 def index():
