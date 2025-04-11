@@ -6,8 +6,8 @@ API_KEY = "SreckoBot"
 API_SECRET = "Zc52fqB5I7W33bk0uOUO7eI53kp2dI4Vg1DOGuN8jNTeYJ6iSWevieOBZfbuKYOJ"
 
 # 🤖 Tvoj Telegram bot token i chat ID
-BOT_TOKEN = "OVDE_UPISI_TELEGRAM_BOT_TOKEN"
-CHAT_ID = "OVDE_UPISI_TVOJ_CHAT_ID"
+BOT_TOKEN = "7961331230:AAFb88c2PorQ-aO6KFnHkqXa4SuXu9CweDM"
+CHAT_ID = "7334208491"
 
 # 📦 Inicijalizacija Binance klijenta
 client = Client(API_KEY, API_SECRET)
